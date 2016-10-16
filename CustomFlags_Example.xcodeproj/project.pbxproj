@@ -192,6 +192,7 @@
 /* Begin XCBuildConfiguration section */
 		86010BC61DB2711D00DEE0BD /* PROD */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86010BCF1DB2A53900DEE0BD /* PROD.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -243,6 +244,7 @@
 		};
 		86010BC81DB2713700DEE0BD /* DEV */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86010BCD1DB2A53900DEE0BD /* DEV.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -295,6 +297,7 @@
 		};
 		86010BCA1DB2714200DEE0BD /* LOCAL */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86010BCE1DB2A53900DEE0BD /* LOCAL.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -455,6 +458,7 @@
 		};
 		866879A01DAAC616008056E2 /* TEST */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86010BD01DB2A53900DEE0BD /* TEST.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
