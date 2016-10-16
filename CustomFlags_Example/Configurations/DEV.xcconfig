@@ -1,0 +1,9 @@
+//
+//  DEV.xcconfig
+//  CustomFlags_Example
+//
+//  Created by Burcu Geneci on 15/10/16.
+//  Copyright © 2016 Burcu Geneci. All rights reserved.
+//
+APP_PRODUCT_NAME=CustomFlags Dev
+APP_PRODUCT_BUNDLE_IDENTIFIER=com.bignew.CustomFlags-ExampleDev
